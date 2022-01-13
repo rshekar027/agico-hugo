@@ -62,7 +62,7 @@ about:
       label: read more
       link: about
 promo_video:
-  enable: true
+  enable: false
   video_thumbnail: images/check-video.png
   video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
   subtitle: Check Video
